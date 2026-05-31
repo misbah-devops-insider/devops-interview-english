@@ -6,7 +6,7 @@
 
 ## Diagram
 
-[**sentence-patterns-prepositions-diagram.drawio**](./sentence-patterns-prepositions-diagram.drawio) — 6 patterns + 4 preposition categories + common mistakes + master sentence.
+**check pdf file diagram below NOTES.md ( diagram ke liye NOTES.md ke neeche wala pdf file kholo)** — 6 patterns + 4 preposition categories + common mistakes + master sentence.
 
 ---
 

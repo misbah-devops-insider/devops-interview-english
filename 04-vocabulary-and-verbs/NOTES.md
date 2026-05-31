@@ -5,8 +5,7 @@
 ---
 
 ## Diagram
-
-[**vocabulary-verbs-diagram.drawio**](./vocabulary-verbs-diagram.drawio) — 10 action verbs + 7 nouns + 5 power sentences.
+**check pdf file diagram below NOTES.md ( diagram ke liye NOTES.md ke neeche wala pdf file kholo)** — 10 action verbs + 7 nouns + 5 power sentences.
 
 ---
 

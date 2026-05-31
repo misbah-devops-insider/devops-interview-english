@@ -6,7 +6,7 @@
 
 ## Diagram
 
-[**body-language-diagram.drawio**](./body-language-diagram.drawio) — complete visual guide ke saath 4 pillars + dressing + common mistakes.
+**check pdf file diagram below NOTES.md ( diagram ke liye NOTES.md ke neeche wala pdf file kholo)** — complete visual guide ke saath 4 pillars + dressing + common mistakes.
 
 ---
 

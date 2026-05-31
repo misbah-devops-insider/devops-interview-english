@@ -6,7 +6,7 @@
 
 ## Diagram
 
-[**question-handling-diagram.drawio**](./question-handling-diagram.drawio) — 7 common questions + buying time phrases + smart questions to ask.
+**check pdf file diagram below NOTES.md ( diagram ke liye NOTES.md ke neeche wala pdf file kholo)** — 7 common questions + buying time phrases + smart questions to ask.
 
 ---
 
